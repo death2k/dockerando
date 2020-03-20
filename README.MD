@@ -4,3 +4,5 @@
 
 PS : o nome do arquivo representa versão do php, mysql e apache quando for usar alterar para docker-compose.yml
 
+Links apoio 
+Vedovelli - https://www.youtube.com/watch?v=ek_RKOAlctg
